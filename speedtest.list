@@ -1,6 +1,5 @@
-
-+.ookla.com
-+.ooklaserver.net
-+.speedtest.com
-+.speedtest.net
-+.ipip.net
+DOMAIN-SUFFIX,ookla.com
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,speedtest.com
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,ipip.net
